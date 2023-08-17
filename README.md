@@ -1,4 +1,4 @@
-### Hi there I'm Jasur 👋
+### Hi there I'm Jasur Sulaymonov 👋
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Jarus95&theme=dark)](https://git.io/streak-stats)
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Jarus95&show_icons=true&theme=gotham" alt="zokirjanov" />
