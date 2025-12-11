@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=Jarus95&show_icons=true&theme=gotham" alt="jasur" />
  
  [![](https://komarev.com/ghpvc/?username=Jarus95&color=orange&label=Profile%20Views)](https://github.com/Jarus95/Jarus95)
-[![](https://img.shields.io/github/followers/Jarus95?label=GitHub%20Followers)](https://github.com/Jarus95)
+[![](https://img.shields.io/github/followers/Jarus95?label=GitHub%20Followers)](https://github.com/Jarus95)  
 
 <!--
 **Jarus95/Jarus95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
